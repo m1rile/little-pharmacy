@@ -8,7 +8,7 @@ Hi and welcome to the team. We are in the future, and Falcon has extended its ac
 
 - All drugs have an `expiresIn` value which denotes the number of days we have until the item expires.
 - All drugs have a `benefit` value which denotes how powerful the drug is.
-- At the end of each day our system lowers both values for every drug
+- At the end of each day our system edits both values for every drug
 
 But there is more:
 
