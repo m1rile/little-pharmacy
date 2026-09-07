@@ -58,7 +58,7 @@
       {
         "name": "Fervex",
         "expiresIn": 9,
-        "benefit": 39
+        "benefit": 50
       },
       {
         "name": "Magic Pill",
@@ -80,7 +80,7 @@
       {
         "name": "Fervex",
         "expiresIn": 8,
-        "benefit": 41
+        "benefit": 50
       },
       {
         "name": "Magic Pill",
@@ -102,7 +102,7 @@
       {
         "name": "Fervex",
         "expiresIn": 7,
-        "benefit": 43
+        "benefit": 50
       },
       {
         "name": "Magic Pill",
@@ -124,7 +124,7 @@
       {
         "name": "Fervex",
         "expiresIn": 6,
-        "benefit": 45
+        "benefit": 50
       },
       {
         "name": "Magic Pill",
@@ -146,7 +146,7 @@
       {
         "name": "Fervex",
         "expiresIn": 5,
-        "benefit": 47
+        "benefit": 50
       },
       {
         "name": "Magic Pill",
@@ -229,7 +229,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -1,
-        "benefit": 17
+        "benefit": 16
       },
       {
         "name": "Fervex",
@@ -251,7 +251,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -2,
-        "benefit": 19
+        "benefit": 32
       },
       {
         "name": "Fervex",
@@ -273,12 +273,12 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -3,
-        "benefit": 21
+        "benefit": 50
       },
       {
         "name": "Fervex",
         "expiresIn": -1,
-        "benefit": 0
+        "benefit": 50
       },
       {
         "name": "Magic Pill",
@@ -295,7 +295,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -4,
-        "benefit": 23
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -317,7 +317,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -5,
-        "benefit": 25
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -339,7 +339,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -6,
-        "benefit": 27
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -361,7 +361,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -7,
-        "benefit": 29
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -383,7 +383,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -8,
-        "benefit": 31
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -405,7 +405,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -9,
-        "benefit": 33
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -427,7 +427,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -10,
-        "benefit": 35
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -444,12 +444,12 @@
       {
         "name": "Doliprane",
         "expiresIn": -1,
-        "benefit": 8
+        "benefit": 9
       },
       {
         "name": "Herbal Tea",
         "expiresIn": -11,
-        "benefit": 37
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -466,12 +466,12 @@
       {
         "name": "Doliprane",
         "expiresIn": -2,
-        "benefit": 6
+        "benefit": 4
       },
       {
         "name": "Herbal Tea",
         "expiresIn": -12,
-        "benefit": 39
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -488,12 +488,12 @@
       {
         "name": "Doliprane",
         "expiresIn": -3,
-        "benefit": 4
+        "benefit": 2
       },
       {
         "name": "Herbal Tea",
         "expiresIn": -13,
-        "benefit": 41
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -510,12 +510,12 @@
       {
         "name": "Doliprane",
         "expiresIn": -4,
-        "benefit": 2
+        "benefit": 1
       },
       {
         "name": "Herbal Tea",
         "expiresIn": -14,
-        "benefit": 43
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -537,7 +537,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -15,
-        "benefit": 45
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -559,7 +559,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -16,
-        "benefit": 47
+        "benefit": 50
       },
       {
         "name": "Fervex",
@@ -581,7 +581,7 @@
       {
         "name": "Herbal Tea",
         "expiresIn": -17,
-        "benefit": 49
+        "benefit": 50
       },
       {
         "name": "Fervex",
